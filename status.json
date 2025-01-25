@@ -2,7 +2,7 @@
   "services": [
     {
       "name": "Authentication",
-      "status": "operational"
+      "status": "degraded"
     },
     {
       "name": "API",
