@@ -1,0 +1,17 @@
+{
+  "services": [
+    {
+      "name": "Authentication",
+      "status": "operational"
+    },
+    {
+      "name": "API",
+      "status": "operational"
+    },
+    {
+      "name": "Vulnerabilities",
+      "status": "operational"
+    }
+  ],
+  "last_updated": "2023-05-20T15:30:00Z"
+}
