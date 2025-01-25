@@ -1,1 +1,30 @@
-
+{
+  "services": [
+    {
+      "name": "API",
+      "status": "operational",
+      "description": "All API endpoints are responding normally."
+    },
+    {
+      "name": "Database",
+      "status": "operational",
+      "description": "Database queries are executing within expected timeframes."
+    },
+    {
+      "name": "Task Queue",
+      "status": "degraded",
+      "description": "Task processing is experiencing minor delays. We are investigating."
+    },
+    {
+      "name": "File Storage",
+      "status": "operational",
+      "description": "File uploads and downloads are functioning as expected."
+    },
+    {
+      "name": "Authentication",
+      "status": "operational",
+      "description": "User authentication services are running smoothly."
+    }
+  ],
+  "last_updated": "2023-05-20T15:30:00Z"
+}
